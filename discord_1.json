@@ -1,0 +1,39 @@
+{
+    "story": [
+        {
+            "id": 1,
+            "question_info": "bir",
+            "answer_": "1"
+        },
+        {
+            "id": 2,
+            "question_info": "fine",
+            "answer_": "2"
+        },
+        {
+            "id": 3,
+            "question_info": "uc",
+            "answer_": "3"
+        },
+        {
+            "id": 4,
+            "question_info": "dort",
+            "answer_": "4"
+        },
+        {
+            "id": 5,
+            "question_info": "bes",
+            "answer_" : "5"
+        },   
+        {
+            "id": 6,
+            "question_info": "alti" ,
+            "answer_" : "6"
+        },     
+        {
+            "id": 7,
+            "question_info": "yedi" ,
+            "answer_" : "7"
+        }                
+    ]
+}
