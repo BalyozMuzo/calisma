@@ -34,6 +34,11 @@
             "id": 7,
             "question_info": "yedi" ,
             "answer_" : "7"
-        }                
+        },     
+        {
+            "id": 8,
+            "question_info": "sekiz" ,
+            "answer_" : "8"
+        }                 
     ]
 }
