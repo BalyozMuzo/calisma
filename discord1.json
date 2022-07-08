@@ -529,31 +529,6 @@
             "id": "106",
             "question_info": "If you find me in a road, you'll have a decision to make. If you find me in a drawer, you'll be ready to eat cake",
             "answer_": "Fork"
-        },
-        {
-            "id": "107",
-            "question_info": "Hop on, let\u2019s go, don\u2019t make me beg. My wheels are fast, but use your legs!",
-            "answer_": "Bike"
-        },
-        {
-            "id": "108",
-            "question_info": "Open, shut, open shut. When you\u2019re bored, I take the brunt. But there\u2019s nothing here, you see. Time to visit the grocery",
-            "answer_": "Refrigerator"
-        },
-        {
-            "id": "109",
-            "question_info": "1",
-            "answer_": "2"
-        },
-        {
-            "id": "110",
-            "question_info": "1'1",
-            "answer_": "2'4"
-        },
-        {
-            "id": "111",
-            "question_info": "Flip me open, clap me shut. Whenever you meet a rut, step away and rest your eyes. My glowing screen you can\u2019t disguise.",
-            "answer_": "Laptop"
         }
     ]
 }
