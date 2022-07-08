@@ -17,7 +17,11 @@
    
 * *Windows:* `py -m pip install github`
 
-   *MacOS:* `python3 -m pip install asyncio`   
+   *MacOS:* `python3 -m pip install asyncio`  
+   
+* *Windows:* `py -m pip install py-cord==2.0.0b1`
+
+   *MacOS:* `python3 -m pip install py-cord==2.0.0b1`    
    
    
 4. Go to https://discordapp.com/developers/applications and create your application, go to the bot section, and copy your token. Place it into the quotes on the last line of code in main.py, replacing the word **TOKEN**   
