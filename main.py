@@ -229,6 +229,31 @@ async def add_question(ctx, question:discord.Option(str,"Please enter the questi
     contents = repo.get_contents("discord1.json") ## get Github "discord1.json" json file
     repo.update_file(contents.path, "committing files", content, contents.sha, branch="main") ## update 
 
+@commands.has_any_role(*config.MODERATOR_ROLE_NAME)
+@bot.slash_command(name="del_question",description="Delete the question",guild_ids=[config.GUILD_ID])
+async def del_question(ctx, question:discord.Option(int,"Please enter the question ['id']")):
+
+    def read_json(filename):  ## read file function
+        with open(filename, 'r') as f:
+            return json.load(f)
+
+    def write_json(filename, data): ## write file function
+        with open(filename, 'w') as f:
+            json.dump(data, f ,indent=4) ## 
+
+    file1 = open("discord_1.json").read() ## read file
+    conv = json.loads(file1)
+
+    data = read_json('discord_1.json')
+    del data['story'][question-1]
+    write_json('discord_1.json', data)
+    await ctx.respond("Checkk ✅",ephemeral=True)
+
+    repo = g.get_user().get_repo("calisma") ## get repo
+    content = open("discord_1.json").read()  ## read "discord_1.json" file
+    contents = repo.get_contents("discord1.json") ## get Github "discord1.json" json file
+    repo.update_file(contents.path, "committing files", content, contents.sha, branch="main") ## update     
+
 @bot.event
 async def on_ready():
     print("Bot is ready ! ! !")
