@@ -26,3 +26,8 @@
    
 4. Go to https://discordapp.com/developers/applications and create your application, go to the bot section, and copy your token. Place it into the quotes on the last line of code in main.py, replacing the word **TOKEN**   
 
+## User guide:
+
+# Commands:
+
+1-
