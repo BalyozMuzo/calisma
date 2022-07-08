@@ -97,8 +97,9 @@ async def start(ctx , numbers_of_raund:discord.Option(int,"Please select the num
             role_event_1 = get(guild.roles,name="EventRound-1")
             await member.add_roles(role_event_1,atomic=True)  
 
-    await ctx.send("Lets go !!!")
-    await ctx.send(f"First Question : {oku}")
+    embed = discord.Embed(title="The competition has started !",description=f"A person who knows the correct answer goes to the next round and a total of {numbers_of_raund} rounds are played.",color=0x97ffff)
+    embed.add_field(name="First question :",value=f"{oku}",inline=True)
+    await ctx.send(embed=embed)
 
     myLoop.start()
 
