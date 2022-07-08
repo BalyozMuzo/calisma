@@ -532,8 +532,13 @@
         },
         {
             "id": "107",
-            "question_info": "From dirt, to paint, and everything in between, I\u2019m your number on companion in keeping clean",
-            "answer_": "Soap"
+            "question_info": "Hop on, let\u2019s go, don\u2019t make me beg. My wheels are fast, but use your legs!",
+            "answer_": "Bike"
+        },
+        {
+            "id": "108",
+            "question_info": "Open, shut, open shut. When you\u2019re bored, I take the brunt. But there\u2019s nothing here, you see. Time to visit the grocery",
+            "answer_": "Refrigerator"
         }
     ]
 }
