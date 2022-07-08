@@ -2,78 +2,538 @@
     "story": [
         {
             "id": 1,
-            "question_info": "bir",
-            "answer_": "1"
+            "question_info": "What is special about a mountain gorilla's nose?",
+            "answer_": "It's unique like a human fingerprint"
         },
         {
             "id": 2,
-            "question_info": "fine",
-            "answer_": "2"
+            "question_info": "What is the second highest mountain in the world?",
+            "answer_": "K2"
         },
         {
             "id": 3,
-            "question_info": "uc",
-            "answer_": "3"
+            "question_info": "Which country held the 1960 Summer Olympics?",
+            "answer_": "Italy"
         },
         {
             "id": 4,
-            "question_info": "dort",
-            "answer_": "4"
+            "question_info": "How many minutes are in 249 days?",
+            "answer_": "358,560"
         },
         {
             "id": 5,
-            "question_info": "bes",
-            "answer_": "5"
+            "question_info": "What is taramasalata?",
+            "answer_": "A type of Greek dip or paste"
         },
         {
             "id": 6,
-            "question_info": "alti",
-            "answer_": "6"
+            "question_info": "What was unusual about the Penny-Farthing bicycle?",
+            "answer_": "The front wheel was much larger than the rear wheel"
         },
         {
             "id": 7,
-            "question_info": "yedi",
-            "answer_": "7"
+            "question_info": "Which country won the first soccer World Cup?",
+            "answer_": "Uruguay"
         },
         {
             "id": 8,
-            "question_info": "sekiz",
-            "answer_": "8"
+            "question_info": "Who was the second man to walk on the moon?",
+            "answer_": "Buzz Aldrin"
         },
         {
             "id": "9",
-            "question_info": "adf",
-            "answer_": "df"
+            "question_info": "What year was the original Wizard of Oz movie released?",
+            "answer_": "1939"
         },
         {
             "id": "10",
-            "question_info": "question: hey how are yuo",
-            "answer_": "answer: you hey"
+            "question_info": "What is the longest river in Australia?",
+            "answer_": "River Murray"
         },
         {
             "id": "11",
-            "question_info": "question: Sa bro",
-            "answer_": "as bro"
+            "question_info": "To one decimal point, how many millimeters are there in 57 inches?",
+            "answer_": "1,447.8"
         },
         {
             "id": "12",
-            "question_info": "question:Hey bro how are you ?",
-            "answer_": "not bad"
+            "question_info": "What was the currency in Germany before the Euro?",
+            "answer_": "Deutsche Mark"
         },
         {
             "id": "13",
-            "question_info": "question:Hey,whatsap",
-            "answer_": "good"
+            "question_info": "What three colors are on the Rwandan flag that was adopted in 2001?",
+            "answer_": "Green, yellow and blue"
         },
         {
             "id": "14",
-            "question_info": "kefaret",
-            "answer_": "sefalet"
+            "question_info": "Who invented the modern ballpoint pen?",
+            "answer_": "Laszlo Biro"
         },
         {
             "id": "15",
-            "question_info": "walla",
-            "answer_": "he"
+            "question_info": "What is the capital city of Croatia?",
+            "answer_": "Zagreb"
+        },
+        {
+            "id": "16",
+            "question_info": "Who was the 30th president of the United States?",
+            "answer_": "Calvin Coolidge"
+        },
+        {
+            "id": "17",
+            "question_info": "To the nearest million, how big is Asia in square miles?",
+            "answer_": "17 million"
+        },
+        {
+            "id": "18",
+            "question_info": "What three colors are used to create the color white on a TV or computer screen?",
+            "answer_": "Red, green and blue"
+        },
+        {
+            "id": "19",
+            "question_info": "How many dimples are there on a Titleist Pro V1 golf ball?",
+            "answer_": "352"
+        },
+        {
+            "id": "20",
+            "question_info": "What was the number 1 single in the US on May 26, 1990?",
+            "answer_": "Madonna - Vogue"
+        },
+        {
+            "id": "21",
+            "question_info": "I'm full of holes but can still hold water.",
+            "answer_": "Sponge"
+        },
+        {
+            "id": "22",
+            "question_info": "The place where today comes before yesterday.",
+            "answer_": "Dictionary"
+        },
+        {
+            "id": "23",
+            "question_info": "I run around the backyard, but never move.",
+            "answer_": "Fence"
+        },
+        {
+            "id": "24",
+            "question_info": "What was the number 1 single in the US on May 26, 1990?",
+            "answer_": "Madonna - Vogue"
+        },
+        {
+            "id": "25",
+            "question_info": "I dry as I get wetter",
+            "answer_": "Towel"
+        },
+        {
+            "id": "26",
+            "question_info": "Nothing rhymes with me exactly, and you'd have a pretty hard time making scrambled eggs without my help",
+            "answer_": "Spatula"
+        },
+        {
+            "id": "27",
+            "question_info": "The pot called me black. I said 'look who's talking?!' Then, I made some tea",
+            "answer_": "Kettle"
+        },
+        {
+            "id": "28",
+            "question_info": "I make bones hard and cookies soft. Babies love me",
+            "answer_": "Milk"
+        },
+        {
+            "id": "29",
+            "question_info": "Is it cold in here, or is it just me? Leave me open, and things will go sour really fast",
+            "answer_": "Fridge"
+        },
+        {
+            "id": "30",
+            "question_info": "I have blades but I'm not a knife. Want to cool down? Give me a whirl",
+            "answer_": "Fan"
+        },
+        {
+            "id": "31",
+            "question_info": "I'm handy for making milkshakes, but don't put your hand inside of me! (Blender)",
+            "answer_": "Blender"
+        },
+        {
+            "id": "32",
+            "question_info": "I don't mind if you're snotty. If you have an issue, I'm here",
+            "answer_": "Tissues"
+        },
+        {
+            "id": "33",
+            "question_info": "My other side is cool, and there's a good chance my cover's covered in drool",
+            "answer_": "Pillow"
+        },
+        {
+            "id": "34",
+            "question_info": "I have teeth but no mouth. If a bald man carries me, it's only for memory's sake",
+            "answer_": "Comb"
+        },
+        {
+            "id": "35",
+            "question_info": "Seeing double? Check me to spot your doppelganger",
+            "answer_": "Mirror"
+        },
+        {
+            "id": "36",
+            "question_info": "I have eyes but cannot see",
+            "answer_": "Potato"
+        },
+        {
+            "id": "37",
+            "question_info": "I have hands but cannot clap (Clock)",
+            "answer_": "Clock"
+        },
+        {
+            "id": "38",
+            "question_info": "You cut me on a table, but I'm never eaten. (Deck of cards",
+            "answer_": "Deck of cards."
+        },
+        {
+            "id": "39",
+            "question_info": "The building that has the most stories",
+            "answer_": "Library"
+        },
+        {
+            "id": "40",
+            "question_info": "I can skip but can't walk. I'd rather sing than talk",
+            "answer_": "Record"
+        },
+        {
+            "id": "41",
+            "question_info": "I can jump but I have no legs",
+            "answer_": "Jumper cables"
+        },
+        {
+            "id": "42",
+            "question_info": "I don't mind a little weight",
+            "answer_": "Scale"
+        },
+        {
+            "id": "43",
+            "question_info": "I have lots of stars, but I'm not the sky. I'll be sitting here quietly until you need me",
+            "answer_": "TV"
+        },
+        {
+            "id": "44",
+            "question_info": "Lovely Rita is my maid. You'll get a ticket if I don't get paid",
+            "answer_": "Parking meter"
+        },
+        {
+            "id": "45",
+            "question_info": "If you don't spot the signs, then you might have an accident",
+            "answer_": "Stop sign"
+        },
+        {
+            "id": "46",
+            "question_info": "I have the most letters. Anyone can add more letters, but only one man can take letters away",
+            "answer_": "Post box"
+        },
+        {
+            "id": "47",
+            "question_info": "I greet every guest, but never say a word",
+            "answer_": "Welcome mat"
+        },
+        {
+            "id": "48",
+            "question_info": "I used to be a tree, until I traded my roots for routes. I have a rose, but I'm not garden. (Paper map",
+            "answer_": "Paper map."
+        },
+        {
+            "id": "49",
+            "question_info": "The countdown continues! Need to think about this clue? I'll give you a minute",
+            "answer_": "Minute timer"
+        },
+        {
+            "id": "50",
+            "question_info": "I guard the lawn and dream of shrimp",
+            "answer_": "Plastic flamingo"
+        },
+        {
+            "id": "51",
+            "question_info": "If not for me, the birds would live in a hole in a tree",
+            "answer_": "Birdhouse"
+        },
+        {
+            "id": "52",
+            "question_info": "Here is my handle, here is my spout",
+            "answer_": "Watering can"
+        },
+        {
+            "id": "53",
+            "question_info": "I'm not the alphabet, but I have letters. I'm not a pole, but I have a flag",
+            "answer_": "Mailbox"
+        },
+        {
+            "id": "54",
+            "question_info": "I'm half of the beach, the half without the water",
+            "answer_": "Sandbox"
+        },
+        {
+            "id": "55",
+            "question_info": "Most cans don't have lids, but it would really stink if my can didn't have me. The bears or racoons might have a nice snack, though",
+            "answer_": "Garbage can lid"
+        },
+        {
+            "id": "56",
+            "question_info": "I may look like a snake, but don't worry- I'm filled with water, not venom",
+            "answer_": "Garden hose"
+        },
+        {
+            "id": "57",
+            "question_info": "This is where the tools live, and what a snake does when it's sick of its skin",
+            "answer_": "Shed"
+        },
+        {
+            "id": "58",
+            "question_info": "I'm a bed without sheets, and I'm always dirty",
+            "answer_": "Flowerbed"
+        },
+        {
+            "id": "59",
+            "question_info": "Make a wish, but don't take a drink",
+            "answer_": "Fountain"
+        },
+        {
+            "id": "60",
+            "question_info": "Watch where you're walking",
+            "answer_": "Sidewalk"
+        },
+        {
+            "id": "61",
+            "question_info": "If you want to eat, then take a seat! (Dining room chair)",
+            "answer_": "Dining room chair"
+        },
+        {
+            "id": "62",
+            "question_info": "Most have clothes on the outside, but I have clothes inside",
+            "answer_": "Closet"
+        },
+        {
+            "id": "63",
+            "question_info": "The rubber duck is at home here",
+            "answer_": "Bathtub"
+        },
+        {
+            "id": "64",
+            "question_info": "I may be a bear, but there's no need to be scared",
+            "answer_": "Teddy bear"
+        },
+        {
+            "id": "65",
+            "question_info": "I can't mix batter, but I can bake a cake",
+            "answer_": "Oven"
+        },
+        {
+            "id": "66",
+            "question_info": "Are you digging this hunt? No? Maybe I can help you dig it. (Shovel",
+            "answer_": "Shovel."
+        },
+        {
+            "id": "67",
+            "question_info": "I can't be-leaf how many clues you've found. Maybe this hunt's knot hard enough. This next clue should be a real stumper",
+            "answer_": "Tree or tree stump"
+        },
+        {
+            "id": "68",
+            "question_info": "When the snow comes down, I help you go down snowy hills! (Sled)",
+            "answer_": "Sled"
+        },
+        {
+            "id": "69",
+            "question_info": "I'm a paste that doesn't glue",
+            "answer_": "Toothpaste"
+        },
+        {
+            "id": "70",
+            "question_info": "I come in pairs, I'm easy to lose, I go between your feet and your shoes",
+            "answer_": "Socks"
+        },
+        {
+            "id": "71",
+            "question_info": "You carry me to a picnic, and I carry everything else! (Basket)",
+            "answer_": "Basket"
+        },
+        {
+            "id": "72",
+            "question_info": "Until you get your license to drive a car, I'm your best means of traveling far",
+            "answer_": "Bicycle"
+        },
+        {
+            "id": "73",
+            "question_info": "I go up and down, but I never move",
+            "answer_": "Staircase"
+        },
+        {
+            "id": "74",
+            "question_info": "You might say I'm popular- I always have the most dates",
+            "answer_": "Calendar"
+        },
+        {
+            "id": "75",
+            "question_info": "I'm here to wake you up, but just hit snooze and I'll shut up",
+            "answer_": "Alarm clock"
+        },
+        {
+            "id": "76",
+            "question_info": "Bored? Play me! I have a board, but I'm not boring! (Board game)",
+            "answer_": "Board game"
+        },
+        {
+            "id": "77",
+            "question_info": "Nobody ever sees my waves, but I have other ways of grabbing attention",
+            "answer_": "Microwave"
+        },
+        {
+            "id": "78",
+            "question_info": "If you're craving takeout, take me out to help you decide",
+            "answer_": "Takeout menu"
+        },
+        {
+            "id": "79",
+            "question_info": "Easy killer. There's no prize at the bottom of my box, but that is where you'll find the next clue",
+            "answer_": "Cereal box"
+        },
+        {
+            "id": "80",
+            "question_info": "I'm shaped like a donut or bagel, but I prefer soundbytes to mouth bites",
+            "answer_": "CD"
+        },
+        {
+            "id": "81",
+            "question_info": "Is this scavenger hunt too intense? Here's a hint- your next clue is camping out nearby",
+            "answer_": "Tent"
+        },
+        {
+            "id": "82",
+            "question_info": "Stay tuned for this next clue. I have strings that can't be tied",
+            "answer_": "Guitar"
+        },
+        {
+            "id": "83",
+            "question_info": "My basket can't carry a thing, because it has a hole in the bottom! (Basketball hoop)",
+            "answer_": "Basketball hoop"
+        },
+        {
+            "id": "84",
+            "question_info": "I can carry much more than books",
+            "answer_": "Backpack"
+        },
+        {
+            "id": "85",
+            "question_info": "If you go out of town, I don't need a sitter, just someone to leave me food and change my litter",
+            "answer_": "Cat"
+        },
+        {
+            "id": "86",
+            "question_info": "I have a bark, but I'm not a tree",
+            "answer_": "Dog"
+        },
+        {
+            "id": "87",
+            "question_info": "One of me per day keeps the doctor away",
+            "answer_": "Apple"
+        },
+        {
+            "id": "88",
+            "question_info": "You visit me at night to sleep tight",
+            "answer_": "Bed"
+        },
+        {
+            "id": "89",
+            "question_info": "Use me once in the morning and once at night, and I'll keep your smile nice and white",
+            "answer_": "Toothbrush"
+        },
+        {
+            "id": "90",
+            "question_info": "Which came first? The chicken or me? (Eggs)",
+            "answer_": "Eggs"
+        },
+        {
+            "id": "91",
+            "question_info": "I let the outside in, and wear nothing but curtains",
+            "answer_": "Window"
+        },
+        {
+            "id": "92",
+            "question_info": "Am I half full, or half empty? Either way, I'm not entirely empty- you'll find the next clue in me! (Glass)",
+            "answer_": "Glass"
+        },
+        {
+            "id": "93",
+            "question_info": "I'm a shape and an instrument",
+            "answer_": "Triangle"
+        },
+        {
+            "id": "94",
+            "question_info": "Which came first? The color or the fruit? (Orange)",
+            "answer_": "Orange"
+        },
+        {
+            "id": "95",
+            "question_info": "You can run with the clues, but don't run with me! Rock beats me every time",
+            "answer_": "Scissors"
+        },
+        {
+            "id": "96",
+            "question_info": "You sat without looking, and now feel like a rube, because the holder has no paper, only a tube",
+            "answer_": "Toilet paper roll"
+        },
+        {
+            "id": "97",
+            "question_info": "You can turn me up high, keep warm, or on low, but no matter the setting, the cooking will be slow",
+            "answer_": "Crockpot/slow cooker"
+        },
+        {
+            "id": "98",
+            "question_info": "Put your phone in me after dropping it in water. I also make a cheap and easy dinner, on nights you just don't want to bother",
+            "answer_": "Rice"
+        },
+        {
+            "id": "99",
+            "question_info": "I wash your clothes, but I'm not a machine",
+            "answer_": "Laundry detergent"
+        },
+        {
+            "id": "100",
+            "question_info": "I'm always tired but never sleep. If you get sleepy, take a nap in my backseat",
+            "answer_": "Car"
+        },
+        {
+            "id": "101",
+            "question_info": "When you see my beauty, you're likely to gasp. To put me on, just fasten the clasp",
+            "answer_": "Necklace"
+        },
+        {
+            "id": "102",
+            "question_info": "When rain's in the forecast and you don't want to get wet, grabbing me before you leave the house is a safe bet",
+            "answer_": "Umbrella"
+        },
+        {
+            "id": "103",
+            "question_info": "I always stay as still as can be. I have the power to move, but not literally",
+            "answer_": "Statue"
+        },
+        {
+            "id": "104",
+            "question_info": "Bread goes inside of me but never comes out",
+            "answer_": "Toaster"
+        },
+        {
+            "id": "105",
+            "question_info": "Rivers have two of me. I have branches but I'm not a tree",
+            "answer_": "Bank"
+        },
+        {
+            "id": "106",
+            "question_info": "If you find me in a road, you'll have a decision to make. If you find me in a drawer, you'll be ready to eat cake",
+            "answer_": "Fork"
+        },
+        {
+            "id": "107",
+            "question_info": "Hop on, let\u2019s go, don\u2019t make me beg. My wheels are fast, but use your legs!",
+            "answer_": "Bike"
         }
     ]
 }
