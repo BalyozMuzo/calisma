@@ -17,7 +17,7 @@
    
 * *Windows:* `py -m pip install github`
 
-   *MacOS:* `python3 -m pip install asyncio`  
+   *MacOS:* `python3 -m pip install github`  
    
 * *Windows:* `py -m pip install py-cord==2.0.0b1`
 
