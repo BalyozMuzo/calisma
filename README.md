@@ -46,4 +46,12 @@ Allows you to delete the desired question . The "id" of the question can be foun
 
 ![image](https://user-images.githubusercontent.com/96955054/178002737-b741b369-a7e9-4f5e-986a-c14ed6a8df2d.png)
 
-This command starts the contest,2 pieces of information are entered . 
+This command starts the contest,2 pieces of information are entered .You determine how many rounds there will be and how many people will win .
+
+4- /answer
+
+![image](https://user-images.githubusercontent.com/96955054/178003390-a453218c-d387-4987-9913-1c85f347b147.png)
+
+Contestants answer the questions with the "answer" command if their answers are correct, they will go to the next round.
+
+![image](https://user-images.githubusercontent.com/96955054/178003596-a04aa5df-b8a5-4b82-ad5a-b0da15a8bb1e.png)
